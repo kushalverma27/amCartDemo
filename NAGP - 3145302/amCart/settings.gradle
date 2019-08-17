@@ -1,0 +1,10 @@
+rootProject.name = 'amCart'
+
+include "eureka-server"
+include "order"
+include "inventory"
+include "zuul"
+include "hystrix-dashboard"
+include "config-server"
+include "tracking"
+include "ribbon-client"
